@@ -1,0 +1,22 @@
+{
+  "name": "async",
+  "authors": [
+    "Sara Wong <1sarabyte@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "async": "^1.5.2"
+  }
+}
