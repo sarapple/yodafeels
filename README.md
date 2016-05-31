@@ -6,6 +6,9 @@ This is an example of API usage.
 ##To use:
 
 git clone https://github.com/sarapple/yodafeels
+bower install
 Add a key.js file to root of the project, and set the following variable:
 
 var MASHAPE_KEY = "somekeyhash";
+
+![alt tag](images/demo.jpg)
